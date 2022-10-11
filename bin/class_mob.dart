@@ -11,7 +11,7 @@ class mobiles{
 
   print("first mobiles details");
   print("model is :${mob1.model="s22 ultra"} ");
-  print("date of indroduce is :${mob1.date=2022}");
+  print("date of introduce is :${mob1.date=2022}");
   print("the storage is : ${mob1.storage=256}");
   print("The chipset is  : ${mobiles.processor}");
   print("the brand is :${mobiles.brand}");
@@ -19,7 +19,7 @@ class mobiles{
   print("*******************************************");
   print("first mobiles details");
   print("model is :${mob1.model="s22 "} ");
-  print("date of indroduce is :${mob1.date=2022}");
+  print("date of introduce is :${mob1.date=2022}");
   print("the storage is : ${mob1.storage=256}");
   print("The chipset is  : ${mobiles.processor="enoyx"}");
   print("the brand is :${mobiles.brand}");
@@ -27,7 +27,7 @@ class mobiles{
   print("*******************************************");
   print("first mobiles details");
   print("model is :${mob1.model="note 20"} ");
-  print("date of indroduce is :${mob1.date=2022}");
+  print("date of introduce is :${mob1.date=2022}");
   print("the storage is : ${mob1.storage=256}");
   print("The chipset is  : ${mobiles.processor}");
   print("the brand is :${mobiles.brand}");
